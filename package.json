@@ -1,5 +1,8 @@
 {
     "devDependencies": {
       "cypress": "^12.17.1"
-    }
+    },
+    "scripts": {
+        "open:tests": " npx cypress open",
+        "run:tests": " npx cypress run"}
   }
